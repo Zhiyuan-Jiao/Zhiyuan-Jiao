@@ -4,5 +4,5 @@ I'm Zhiyuan Jiao. I'm a full stack developer with a passion for diving deep into
 \
 🚀 My coding journey takes a scenic route through geospatial database design and modeling. 🗺️ Let's connect, code, and explore the fascinating realm of geoinformation together! \
 \
-🌐💻 #CodingAdventures #GeospatialGeek
+💻#CodingAdventures 🌐#GeospatialGeek
 
