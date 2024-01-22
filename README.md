@@ -6,3 +6,6 @@ I'm Zhiyuan Jiao. I'm a full stack developer with a passion for diving deep into
 \
 💻#CodingAdventures 🌐#GeospatialGeek
 
+![Zhiyuan-Jiao's Stats](https://github-readme-stats.vercel.app/api?username=Zhiyuan-Jiao&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)\
+![Zhiyuan-Jiao's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zhiyuan-Jiao&theme=vue-dark&hide_border=true)\
+![Zhiyuan-Jiao's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhiyuan-Jiao&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
