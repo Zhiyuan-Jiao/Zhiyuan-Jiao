@@ -8,5 +8,5 @@ I'm Zhiyuan Jiao. I'm a full stack developer with a passion for diving deep into
 
 <br><br>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zhiyuan-Jiao&theme=graywhite&hide_border=true" width=500>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zhiyuan-Jiao&theme=dark&hide_border=true" width=600>
 </p>
