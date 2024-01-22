@@ -8,9 +8,5 @@ I'm Zhiyuan Jiao. I'm a full stack developer with a passion for diving deep into
 
 <br><br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zhiyuan-Jiao&theme=graywhite&show_icons=true&hide_border=true&count_private=true" width=450>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zhiyuan-Jiao&theme=graywhite&hide_border=true" width=450>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zhiyuan-Jiao&theme=graywhite&hide_border=true" width=500>
 </p>
