@@ -5,8 +5,3 @@ I'm Zhiyuan Jiao. I'm a developer with a passion to dive deep into the world of 
 🚀 Let's connect, code, and explore the fascinating realm of geoinformation together! \
 \
 💻#CodingAdventures 🌐#GeospatialGeek
-
-<br><br>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zhiyuan-Jiao&theme=dark&hide_border=true" width=600>
-</p>
